@@ -3,7 +3,7 @@ CSC325 Group 2 Project
 
 HerBalance is a personalized wellness tracker application aimed towards assisting female users tracking their health in an accessible manner. Users will be able to access their health will include nutrition, physical, mental, and emotional health, sleep, and menstrual cycle tracking. Key features of the application will include meal plans/ideas, stress level tracking, suggested workout routines, period logging, and mood tracking. HerBalance will provide a customized plan for the individual user’s input, which will assist in providing the best solution for improving overall health.
 	
-1)	WRSPM analysis of the chosen problem/project (create a MS Word Doc). Detailed analysis is required. You have to specify the
+1)	WRSPM analysis
 -	World assumptions:
   Female users are looking to improve their overall health and wellness
   Users have access to the Internet (via a mobile device or desktop computer)
